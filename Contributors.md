@@ -5,6 +5,7 @@
 - [Ayush Singh](https://github.com/AyushSingh-github) 
 - [Abideen Bello] (https://github.com/bideeen)
 - [Parseluni] (https://github.com/Parseluni)
+- [Kieran Krug] (https://github.com/lost-in-cyberspace)
 - [Sheetal Patel](https://github.com/sheetal2001p)
 - [Lily Tang](https://github.com/tang305)
 - [Anurag Sharma](https://github.com/Anurag-2000)
